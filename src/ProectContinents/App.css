@@ -1,0 +1,23 @@
+
+
+.continents{
+    display: flex;
+    margin: auto;
+}
+
+.continent{
+    width: 180px;
+    font-size: 32px;
+    text-align: center;
+    border: 2px black solid;
+    background-color: aliceblue;
+    text-decoration: none;
+}
+
+.countries{
+    margin: 100px, auto;
+    font-size: 20px;
+    width: 250px;
+    height: auto;
+}
+

@@ -1,0 +1,37 @@
+button {
+    width: 100px;
+    height: 30px;
+}
+
+.div{
+    display: flex;
+
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+.goods{
+    border: 2px solid black;
+}
+
+*{
+    margin: 3px;
+}
+
+.btn{
+    width: 20px;
+    height: 20px;
+}
+
+table, th, td, tr{
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+.img2{
+    width: 100px;
+    height: 70px;
+}
